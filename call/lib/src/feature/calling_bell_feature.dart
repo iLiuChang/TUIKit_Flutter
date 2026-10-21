@@ -1,4 +1,4 @@
-import 'package:tuikit_atomic_x/atomicx.dart';
+import 'package:tuikit_atomic_x/atomicx.dart' hide AudioMusicParam;
 import 'package:file/file.dart';
 import 'package:file/local.dart';
 import 'package:flutter/foundation.dart';

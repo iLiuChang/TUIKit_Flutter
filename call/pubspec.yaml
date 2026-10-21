@@ -23,9 +23,11 @@ dependencies:
   tencent_cloud_chat_sdk: any
   tencent_rtc_sdk: any
 
+  # Sources under lib/ import this package directly.
+  rtc_room_engine: any
+
 #  发布的时候需要打开下面的注释
 #  atomic_x_core: any
-#  rtc_room_engine: any
 
 dev_dependencies:
   flutter_test:
